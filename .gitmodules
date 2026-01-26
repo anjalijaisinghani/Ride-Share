@@ -1,3 +1,9 @@
 [submodule "BackendProject"]
 	path = BackendProject
 	url = https://github.com/anjalijaisinghani/Ride-Sharing-App-Backend.git
+[submodule "frontend-Ride-Share-ui"]
+	path = frontend-Ride-Share-ui
+	url = https://github.com/anjalijaisinghani/frontend-Ride-Share-ui
+[submodule "frontend-Ride-Share-admin"]
+	path = frontend-Ride-Share-admin
+	url = https://github.com/anjalijaisinghani/frontend-Ride-Share-admin
